@@ -1,0 +1,72 @@
+* {
+  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.filesGrid {
+  width: 500px;
+  padding: 10px;
+  margin: 20px auto;
+  border: 1px solid #6B6E70;
+}
+
+a {
+  color: #86C232;
+}
+
+.file {
+    color: #61892F;
+}
+
+.filesList {
+  list-style-type: none;
+}
+
+.filesList li {
+ padding: 5px;
+ margin-bottom: 5px;
+}
+
+
+ul.filesList li:nth-child(odd) {
+  background-color: #474B4F;
+}
+
+span.material-icons {
+  position: relative;
+  bottom: -5px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.currentFolder {
+  text-align: center;
+  margin: 20px 0;
+  color: white;
+}
+
+.fileAction {
+    float: right;
+}
+
+#upload {
+    color: #86C232;
+    margin-left: 20px;
+}
+
+#upload label{
+    cursor: pointer;
+}
+
+#upload input{
+    display: none;
+}
+
+#createFolder {
+    margin-left: 20px;
+}
+
+#createFolderInput {
+    margin-left: 10px;
+    background-color: #6B6E70;
+}

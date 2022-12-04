@@ -1,0 +1,2 @@
+D:\языки\lab_2\client\client\obj\Debug\client.esproj.SuggestedBindingRedirects.cache
+D:\языки\lab_2\client\client\obj\Debug\client.esproj.CoreCompileInputs.cache
